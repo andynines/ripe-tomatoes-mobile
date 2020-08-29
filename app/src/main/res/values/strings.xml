@@ -1,0 +1,15 @@
+<resources>
+    <!-- App header -->
+    <string name="app_name">Ripe Tomatoes</string>
+    <string name="tab_text_1">Account</string>
+    <string name="tab_text_2">Ratings</string>
+    <!-- Account tab -->
+    <string name="username_box_hint">Username</string>
+    <string name="login_button_text">Login</string>
+    <!-- Ratings tab -->
+    <string name="title_box_hint">Title</string>
+    <string name="rating_box_hint">Rating</string>
+    <string name="rating_box_qualifier">out of 10</string>
+    <string name="submit_button_text">Submit</string>
+    <string name="show_button_text">Show all</string>
+</resources>
